@@ -1,0 +1,12 @@
+.top_bar{background:red; padding:5px 0;}
+.social_icons{padding: 5px;}
+.contact_info{color:#fff;}
+.my_menu{margin-top:27px;}
+.my_menu .navbar-default{background:none; border:none;}
+.my_menu .navbar-nav .active a:hover{background:#f26522; color:#fff;}
+.my_menu .navbar-nav li a:hover{background:#F26522; color:#fff;}  
+.languages{margin-top:40px;}
+
+@media (max-width:1200px){
+	.my_menu .pull-right{float:none !important;}
+}

@@ -1,0 +1,22 @@
+body{
+	font: 10px Verdana;
+}
+h1{
+	font: 10px Verdana;
+	color: red;
+}
+.Input{
+	font: 10px Verdana;
+	border: 2px solid orange;
+	width: 20px;
+	border-radius: 7px;
+	
+}
+.Submit{
+	font: 10px Verdana;
+	border: 1px solid orange;
+	width: 100px;
+	border-radius: 7px;
+	
+}
+}
